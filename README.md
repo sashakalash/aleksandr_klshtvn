@@ -1,4 +1,4 @@
-Hi 👋 I'm Aleksandr Koloshtivin
+Hi 👋<br/>I'm Aleksandr Koloshtivin
 ================================================================================================================
 
 ## Senior Frontend Developer
