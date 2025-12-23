@@ -4,7 +4,7 @@ Hi 👋<br/>I'm Aleksandr Koloshtivin
 ## Senior Frontend Developer
 ----------------------------
 
-I'm an experienced Senior Frontend Engineer with 6+ years in designing, building, and scaling web applications. Specialized in Angular (up to the latest version), TypeScript, RxJS, and state management tools such as NgRx, NgXS and Akita with a strong focus on clean architecture, test coverage, and performance optimization. Proven track record of delivering complex SPAs in cross-functional teams, mentoring peers, and improving developer workflows.
+I'm an experienced Senior Frontend Engineer with 7+ years in designing, building, and scaling web applications. Specialized in Angular (up to the latest version), TypeScript, RxJS, and state management tools such as NgRx, NgXS and Akita with a strong focus on clean architecture, test coverage, and performance optimization. Proven track record of delivering complex SPAs in cross-functional teams, mentoring peers, and improving developer workflows.
 
 I’m passionate about building scalable frontend architectures that make a real-world impact. Currently, I’m deepening my expertise in the latest versions of Angular and exploring backend technologies. 
 Besides my frontend expertise, I created REST APIs using Node.js and Express, and gained solid knowledge of server-side development during a year of studying Java. I’m well-versed in SQL-based tools like Denodo, as well as NoSQL databases such as Neo4j and MongoDB.
@@ -14,7 +14,7 @@ I’m eager to apply my skills in a professional environment where I can keep le
 ---
 
 ### **Contact Information**  
-📍 Based in Berlin, Germany<br/>
+📍 Based in Batumi, Georgia<br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksandr.koloshtivin@gmail.com)<br/>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aleksandr_kolos)<br/>
  ---
